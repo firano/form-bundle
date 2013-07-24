@@ -1,6 +1,6 @@
 {
-    "name":         "neutron/form-bundle",
-    "description":  "This bundle provides extra form types empowered by jQuery",
+    "name":         "v-knyazev/form-bundle",
+    "description":  "FORK! Fix for symfony 2.3. This bundle provides extra form types empowered by jQuery",
     "keywords":     ["form", "jqueryui", "jQuery", "Symfony", "plupload", "tinymce", "inputlimiter", "select2", "recaptcha"],
     "type":         "symfony-bundle",
     "license":      "MIT",
@@ -18,7 +18,7 @@
     "minimum-stability": "dev",
     "require": {
         "symfony/framework-bundle": "2.3.*",
-        "neutron/datagrid-bundle": ">=1.0.1,<2.0-dev",
+        "v-knyazev/datagrid-bundle": ">=1.0.1,<2.0-dev",
         "avalanche123/imagine-bundle": "v2.1"
     },
     "require-dev": {
