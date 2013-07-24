@@ -24,6 +24,12 @@
     "require-dev": {
         "neutron/component-bundle": "*"
     },
+    "repositories":[
+        {
+            "type":"git",
+            "url":"http://github.com/v-knyazev/datagrid-bundle"
+        }
+    ],
     "autoload": {
         "psr-0": { "Neutron\\FormBundle": "" }
     },
