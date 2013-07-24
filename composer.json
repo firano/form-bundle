@@ -18,7 +18,7 @@
     "minimum-stability": "dev",
     "require": {
         "symfony/framework-bundle": "2.3.*",
-        "v-knyazev/datagrid-bundle": "dev-master",
+        "v-knyazev/datagrid-bundle": "master",
         "avalanche123/imagine-bundle": "v2.1"
     },
     "require-dev": {
