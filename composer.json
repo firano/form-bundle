@@ -1,5 +1,5 @@
 {
-    "name":         "v-knyazev/form-bundle",
+    "name":         "firano/form-bundle",
     "description":  "FORK! Fix for symfony 2.3. This bundle provides extra form types empowered by jQuery",
     "keywords":     ["form", "jqueryui", "jQuery", "Symfony", "plupload", "tinymce", "inputlimiter", "select2", "recaptcha"],
     "type":         "symfony-bundle",
@@ -18,7 +18,7 @@
     "minimum-stability": "dev",
     "require": {
         "symfony/framework-bundle": "2.3.*",
-        "v-knyazev/datagrid-bundle": "dev-master",
+        "firano/datagrid-bundle": "dev-master",
         "avalanche123/imagine-bundle": "v2.1"
     },
     "require-dev": {
@@ -27,7 +27,7 @@
     "repositories":[
         {
             "type":"git",
-            "url":"http://github.com/v-knyazev/datagrid-bundle"
+            "url":"http://github.com/firano/datagrid-bundle"
         }
     ],
     "autoload": {
